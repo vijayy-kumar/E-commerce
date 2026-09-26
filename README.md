@@ -167,7 +167,7 @@ All protected routes require `Authorization: Bearer <token>`.
 
 <div align="center">
 
-[**🔗 View Live Demo**](https://nexoraa-in.netlify.app/) &nbsp;|&nbsp; [**💻 View Source Code**](https://github.com/vijayy-kumar)
+[**🔗 View Live Demo**](https://nexoraa-in.netlify.app/) &nbsp;|&nbsp; [**💻 View Source Code**](https://github.com/vijayy-kumar/E-commerce)
 
 </div>
 
