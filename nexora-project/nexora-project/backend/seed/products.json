@@ -1,0 +1,1129 @@
+[
+  {
+    "id": 1,
+    "name": "AirPulse Pro Wireless Earbuds",
+    "cat": "Electronics",
+    "price": 6639,
+    "orig": 10789,
+    "rating": 4.6,
+    "reviews": 812,
+    "desc": "Immersive active noise cancellation, 32-hour battery life with the charging case, and a secure ergonomic fit built for all-day listening.",
+    "img": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Obsidian",
+      "Pearl White"
+    ],
+    "stock": 24
+  },
+  {
+    "id": 2,
+    "name": "ChronoFit Smartwatch Series 5",
+    "cat": "Electronics",
+    "price": 12449,
+    "orig": 16599,
+    "rating": 4.7,
+    "reviews": 1204,
+    "desc": "Track heart rate, sleep, and 20+ workouts with a vivid always-on AMOLED display and 7-day battery life. Water resistant to 50m.",
+    "img": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Graphite",
+      "Rose Gold"
+    ],
+    "stock": 15
+  },
+  {
+    "id": 3,
+    "name": "BassBeam Portable Bluetooth Speaker",
+    "cat": "Electronics",
+    "price": 4979,
+    "orig": 7469,
+    "rating": 4.4,
+    "reviews": 530,
+    "desc": "360° room-filling sound in a rugged, IPX7 waterproof shell. Pair two speakers for stereo sound and enjoy up to 18 hours of playtime.",
+    "img": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Midnight Black",
+      "Ocean Blue"
+    ],
+    "stock": 31
+  },
+  {
+    "id": 4,
+    "name": "SnapShot X Mirrorless Camera",
+    "cat": "Electronics",
+    "price": 53949,
+    "orig": 66399,
+    "rating": 4.8,
+    "reviews": 298,
+    "desc": "A 24MP APS-C sensor, in-body stabilization, and 4K video make this the ideal companion for creators who refuse to compromise on quality.",
+    "img": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Black"
+    ],
+    "stock": 9
+  },
+  {
+    "id": 5,
+    "name": "Urban Drift Oversized Hoodie",
+    "cat": "Fashion",
+    "price": 3729,
+    "orig": 5809,
+    "rating": 4.5,
+    "reviews": 410,
+    "desc": "Heavyweight brushed fleece with a relaxed, oversized cut. Garment-dyed for a lived-in look that only gets better with wear.",
+    "img": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1614975059251-992f11792b9f?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Charcoal",
+      "Sand",
+      "Olive"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 44
+  },
+  {
+    "id": 6,
+    "name": "Nightfall Bomber Jacket",
+    "cat": "Fashion",
+    "price": 7469,
+    "orig": 11619,
+    "rating": 4.6,
+    "reviews": 267,
+    "desc": "A water-resistant shell with quilted lining, ribbed cuffs, and a tailored silhouette that moves easily from day to night.",
+    "img": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Black",
+      "Forest Green"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 18
+  },
+  {
+    "id": 7,
+    "name": "Everyday Essential Tee — 3 Pack",
+    "cat": "Fashion",
+    "price": 2069,
+    "orig": 2899,
+    "rating": 4.3,
+    "reviews": 955,
+    "desc": "Soft 100% combed cotton, pre-shrunk and reinforced at the seams. The wardrobe staple you'll reach for every single day.",
+    "img": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1583743814966-8936f37f4678?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "White",
+      "Black",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 60
+  },
+  {
+    "id": 8,
+    "name": "Solstice Wrap Midi Dress",
+    "cat": "Fashion",
+    "price": 4559,
+    "orig": 7049,
+    "rating": 4.7,
+    "reviews": 189,
+    "desc": "A flattering wrap silhouette in flowing crepe fabric, finished with a tie waist and fluttering sleeves for effortless elegance.",
+    "img": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Terracotta",
+      "Navy"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "stock": 22
+  },
+  {
+    "id": 9,
+    "name": "StrideMax Running Sneakers",
+    "cat": "Shoes",
+    "price": 5809,
+    "orig": 8299,
+    "rating": 4.6,
+    "reviews": 721,
+    "desc": "Responsive foam midsole and a breathable knit upper deliver a light, cushioned ride mile after mile.",
+    "img": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "White/Blue",
+      "Black/Red"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "stock": 38
+  },
+  {
+    "id": 10,
+    "name": "Cobblestone Leather Boots",
+    "cat": "Shoes",
+    "price": 9959,
+    "orig": 14109,
+    "rating": 4.8,
+    "reviews": 302,
+    "desc": "Full-grain leather uppers on a durable rubber lug sole — built to handle city streets and rougher trails alike.",
+    "img": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1520639888713-7851133b1ed0?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Tan",
+      "Dark Brown"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "stock": 14
+  },
+  {
+    "id": 11,
+    "name": "AeroFlex Everyday Sneakers",
+    "cat": "Shoes",
+    "price": 4559,
+    "orig": 6639,
+    "rating": 4.4,
+    "reviews": 498,
+    "desc": "A minimalist silhouette with a flexible sole and cushioned collar, engineered for all-day comfort.",
+    "img": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "stock": 29
+  },
+  {
+    "id": 12,
+    "name": "Coastal Slide Sandals",
+    "cat": "Shoes",
+    "price": 2489,
+    "orig": 3729,
+    "rating": 4.2,
+    "reviews": 156,
+    "desc": "Contoured footbed sandals with quick-dry straps — the easy choice for beach days and poolside lounging.",
+    "img": "https://images.unsplash.com/photo-1603487742131-4160ec999306?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1622560481156-01a35bc45b19?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Black",
+      "Beige"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "stock": 33
+  },
+  {
+    "id": 13,
+    "name": "Horizon Aviator Sunglasses",
+    "cat": "Accessories",
+    "price": 2899,
+    "orig": 4559,
+    "rating": 4.5,
+    "reviews": 274,
+    "desc": "Polarized lenses with 100% UV protection set in a lightweight metal frame with an iconic teardrop shape.",
+    "img": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Gold/Green",
+      "Black/Grey"
+    ],
+    "stock": 41
+  },
+  {
+    "id": 14,
+    "name": "Meridian Chrono Watch",
+    "cat": "Accessories",
+    "price": 10789,
+    "orig": 14939,
+    "rating": 4.7,
+    "reviews": 203,
+    "desc": "A stainless steel chronograph with sapphire-coated glass and a genuine leather strap — precision with quiet confidence.",
+    "img": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1547996160-81dfa63595aa?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Brown Leather",
+      "Steel"
+    ],
+    "stock": 12
+  },
+  {
+    "id": 15,
+    "name": "Voyager Canvas Backpack",
+    "cat": "Accessories",
+    "price": 5389,
+    "orig": 7879,
+    "rating": 4.6,
+    "reviews": 389,
+    "desc": "Water-resistant waxed canvas with a padded 15-inch laptop sleeve and leather trims built to age beautifully.",
+    "img": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Olive",
+      "Charcoal"
+    ],
+    "stock": 26
+  },
+  {
+    "id": 16,
+    "name": "Heritage Leather Wallet",
+    "cat": "Accessories",
+    "price": 2489,
+    "orig": 3729,
+    "rating": 4.4,
+    "reviews": 167,
+    "desc": "Hand-finished full-grain leather with RFID-blocking card slots and a slim profile that fits any pocket.",
+    "img": "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Brown",
+      "Black"
+    ],
+    "stock": 52
+  },
+  {
+    "id": 17,
+    "name": "Lumen Arc Floor Lamp",
+    "cat": "Home",
+    "price": 6639,
+    "orig": 9129,
+    "rating": 4.5,
+    "reviews": 143,
+    "desc": "A sculptural arc silhouette in brushed brass with a soft linen shade — warm, ambient lighting for any living space.",
+    "img": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1524484485831-a92ffc0de03f?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Brass",
+      "Matte Black"
+    ],
+    "stock": 17
+  },
+  {
+    "id": 18,
+    "name": "Haven Lounge Chair",
+    "cat": "Home",
+    "price": 20749,
+    "orig": 27389,
+    "rating": 4.8,
+    "reviews": 96,
+    "desc": "Solid oak legs and premium bouclé upholstery combine for a chair that anchors a room in quiet, understated comfort.",
+    "img": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Cream",
+      "Sage"
+    ],
+    "stock": 8
+  },
+  {
+    "id": 19,
+    "name": "Terra Ceramic Mug Set (4pc)",
+    "cat": "Home",
+    "price": 2899,
+    "orig": 4149,
+    "rating": 4.6,
+    "reviews": 211,
+    "desc": "Hand-glazed stoneware mugs with a soft matte finish, each subtly unique — dishwasher and microwave safe.",
+    "img": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1517256064527-09c73fc73e38?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Terracotta Mix"
+    ],
+    "stock": 47
+  },
+  {
+    "id": 20,
+    "name": "Aroma Mist Diffuser",
+    "cat": "Home",
+    "price": 3319,
+    "orig": 4979,
+    "rating": 4.3,
+    "reviews": 178,
+    "desc": "Whisper-quiet ultrasonic diffuser with seven ambient light modes and up to 10 hours of continuous mist.",
+    "img": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1602928321679-560bb453f190?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "White",
+      "Wood Grain"
+    ],
+    "stock": 36
+  },
+  {
+    "id": 21,
+    "name": "Detective L Premium T-shirt",
+    "cat": "Anime",
+    "price": 3729,
+    "orig": 5389,
+    "rating": 4.9,
+    "reviews": 512,
+    "desc": "A finely detailed 1/8 scale PVC figure of the enigmatic detective, captured mid-thought in his signature perched pose. Hand-painted with a matte finish.",
+    "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRDks9K85AnkjpZF9HwObvK2xBkeq0xdsqtSaXBC2NsSJS_triAJNwhy9gI2uTK4iT9uxLeCikruCnOzM3u_gPHVaf6eW6q",
+    "img2": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtqlPTWLpHYO0mIjZ-LLBoxkq_RekIMcBjkLBfdmzI2aJhPa_5ZQ1HQ_FzvgFMpIw0fIrvC_-KNDBibkVv8Q6RJt95X6Q3Dg",
+    "colors": [
+      "Standard Edition",
+      "Glow-in-the-Dark"
+    ],
+    "stock": 19
+  },
+  {
+    "id": 22,
+    "name": "Notebook of Rules Journal",
+    "cat": "Anime",
+    "price": 1409,
+    "orig": 2069,
+    "rating": 4.7,
+    "reviews": 876,
+    "desc": "A jet-black hardcover journal inspired by classic mystery-thriller anime, complete with faux-aged pages and a ribbon bookmark. 200 lined pages.",
+    "img": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Classic Black"
+    ],
+    "stock": 64
+  },
+  {
+    "id": 23,
+    "name": "Academy Uniform Hoodie",
+    "cat": "Anime",
+    "price": 3319,
+    "orig": 4979,
+    "rating": 4.6,
+    "reviews": 341,
+    "desc": "A cozy fleece hoodie inspired by elite-academy uniform aesthetics, featuring an embroidered crest and ribbed cuffs for that effortlessly composed look.",
+    "img": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1622445275649-434e75316718?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Charcoal Grey",
+      "Navy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 37
+  },
+  {
+    "id": 24,
+    "name": "Death Note Book",
+    "cat": "Anime",
+    "price": 4559,
+    "orig": 6639,
+    "rating": 4.8,
+    "reviews": 229,
+    "desc": "A weighted wooden chess set for players who think several moves ahead — inspired by the calculated rivalries of psychological-thriller anime. Includes a felt-lined storage board.",
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTnG6V6BqtdC2PCdRpdQ4I4IfqXuSmrUqrPljIXq-i5ZWHyk3avvmVAR6uKVGmteium24xl_4GjcuNWQ5hU38m6PXj_ynmG01ltHihaVGJEHPCMpxT19FEsiQ",
+    "img2": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRsrODehwRSqTrm0HjeM_pLxCYVMqwSI7RSTKvThi5Ckq84S0-3SycKxHCiOobupZqpzI1HM4b1vX_g7NdyJwBEYMp2LMLCB8PMTfoAyT9ROfFEeNiel2MIjA",
+    "colors": [
+      "Walnut/Maple"
+    ],
+    "stock": 22
+  },
+  {
+    "id": 25,
+    "name": "Pulseband Fitness Tracker",
+    "cat": "Electronics",
+    "price": 2899,
+    "orig": 4149,
+    "rating": 4.3,
+    "reviews": 344,
+    "desc": "A lightweight fitness band with heart-rate tracking, sleep monitoring, and 10-day battery life in a slim silicone strap.",
+    "img": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Black",
+      "Teal"
+    ],
+    "stock": 52
+  },
+  {
+    "id": 26,
+    "name": "EchoDome Smart Speaker",
+    "cat": "Electronics",
+    "price": 6639,
+    "orig": 8299,
+    "rating": 4.5,
+    "reviews": 421,
+    "desc": "Voice-controlled smart speaker with rich 360° sound and built-in home automation hub.",
+    "img": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "White",
+      "Charcoal"
+    ],
+    "stock": 28
+  },
+  {
+    "id": 27,
+    "name": "FlexCharge 65W GaN Charger",
+    "cat": "Electronics",
+    "price": 2489,
+    "orig": 3319,
+    "rating": 4.6,
+    "reviews": 612,
+    "desc": "Compact GaN fast charger with dual USB-C ports, powerful enough for laptops and phones alike.",
+    "img": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Black"
+    ],
+    "stock": 71
+  },
+  {
+    "id": 28,
+    "name": "ViewPad 11 Tablet",
+    "cat": "Electronics",
+    "price": 24899,
+    "orig": 29899,
+    "rating": 4.4,
+    "reviews": 189,
+    "desc": "An 11-inch tablet with a crisp LCD display, all-day battery, and a stylus-ready screen for work or play.",
+    "img": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Silver",
+      "Space Grey"
+    ],
+    "stock": 13
+  },
+  {
+    "id": 29,
+    "name": "NoiseGuard Over-Ear Headphones",
+    "cat": "Electronics",
+    "price": 8299,
+    "orig": 11619,
+    "rating": 4.7,
+    "reviews": 534,
+    "desc": "Plush over-ear cushions and adaptive noise cancellation for long listening sessions in comfort.",
+    "img": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1614975059251-992f11792b9f?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Black",
+      "Navy"
+    ],
+    "stock": 22
+  },
+  {
+    "id": 30,
+    "name": "RapidLink Wireless Charging Pad",
+    "cat": "Electronics",
+    "price": 1659,
+    "orig": 2489,
+    "rating": 4.2,
+    "reviews": 298,
+    "desc": "A sleek 15W wireless charging pad with anti-slip surface and LED charge indicator.",
+    "img": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "stock": 64
+  },
+  {
+    "id": 31,
+    "name": "StreamCast 4K Media Stick",
+    "cat": "Electronics",
+    "price": 4149,
+    "orig": 5809,
+    "rating": 4.5,
+    "reviews": 376,
+    "desc": "Stream your favorite shows in crisp 4K HDR with voice remote and one-tap app switching.",
+    "img": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1583743814966-8936f37f4678?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Black"
+    ],
+    "stock": 39
+  },
+  {
+    "id": 32,
+    "name": "Cascade Denim Jacket",
+    "cat": "Fashion",
+    "price": 4979,
+    "orig": 7469,
+    "rating": 4.5,
+    "reviews": 213,
+    "desc": "Classic washed denim jacket with a relaxed fit, button front, and reinforced stitching.",
+    "img": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Light Wash",
+      "Dark Indigo"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 31
+  },
+  {
+    "id": 33,
+    "name": "Linen Blend Summer Shirt",
+    "cat": "Fashion",
+    "price": 2899,
+    "orig": 4149,
+    "rating": 4.4,
+    "reviews": 302,
+    "desc": "Breathable linen-cotton blend shirt with a relaxed cut, perfect for warm days.",
+    "img": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "White",
+      "Sky Blue",
+      "Sand"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 48
+  },
+  {
+    "id": 34,
+    "name": "Highline Pleated Trousers",
+    "cat": "Fashion",
+    "price": 3729,
+    "orig": 5389,
+    "rating": 4.3,
+    "reviews": 176,
+    "desc": "Tailored pleated trousers with a comfortable elastic waistband and a tapered leg.",
+    "img": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1520639888713-7851133b1ed0?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Black",
+      "Beige"
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "stock": 27
+  },
+  {
+    "id": 35,
+    "name": "Velour Track Set",
+    "cat": "Fashion",
+    "price": 5809,
+    "orig": 8299,
+    "rating": 4.6,
+    "reviews": 254,
+    "desc": "A cozy matching velour hoodie and joggers set, soft to the touch with a relaxed athletic fit.",
+    "img": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Maroon",
+      "Charcoal"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 33
+  },
+  {
+    "id": 36,
+    "name": "Classic Trench Coat",
+    "cat": "Fashion",
+    "price": 9959,
+    "orig": 13279,
+    "rating": 4.7,
+    "reviews": 142,
+    "desc": "A timeless double-breasted trench coat in water-resistant cotton twill with a belted waist.",
+    "img": "https://images.unsplash.com/photo-1603487742131-4160ec999306?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1622560481156-01a35bc45b19?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Camel",
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 16
+  },
+  {
+    "id": 37,
+    "name": "Everyday Denim Jeans",
+    "cat": "Fashion",
+    "price": 3319,
+    "orig": 4979,
+    "rating": 4.5,
+    "reviews": 489,
+    "desc": "Stretch-comfort denim jeans with a straight fit that goes from desk to weekend effortlessly.",
+    "img": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Indigo",
+      "Black"
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "stock": 57
+  },
+  {
+    "id": 38,
+    "name": "TrailBlaze Hiking Boots",
+    "cat": "Shoes",
+    "price": 8299,
+    "orig": 11619,
+    "rating": 4.7,
+    "reviews": 234,
+    "desc": "Waterproof hiking boots with rugged lug soles and ankle support for rough terrain.",
+    "img": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1547996160-81dfa63595aa?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Brown",
+      "Grey"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "stock": 19
+  },
+  {
+    "id": 39,
+    "name": "Court Classic Sneakers",
+    "cat": "Shoes",
+    "price": 4979,
+    "orig": 6639,
+    "rating": 4.5,
+    "reviews": 612,
+    "desc": "Retro-inspired court sneakers with a clean leather upper and cushioned insole.",
+    "img": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "White",
+      "White/Green"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "stock": 44
+  },
+  {
+    "id": 40,
+    "name": "Nimbus Cloud Slip-Ons",
+    "cat": "Shoes",
+    "price": 3319,
+    "orig": 4979,
+    "rating": 4.3,
+    "reviews": 287,
+    "desc": "Featherlight slip-on shoes with a knit upper and memory-foam footbed for all-day comfort.",
+    "img": "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Grey",
+      "Black"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "stock": 52
+  },
+  {
+    "id": 41,
+    "name": "Formal Oxford Shoes",
+    "cat": "Shoes",
+    "price": 6639,
+    "orig": 9129,
+    "rating": 4.6,
+    "reviews": 156,
+    "desc": "Handcrafted leather Oxford shoes with a polished finish, perfect for formal occasions.",
+    "img": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1524484485831-a92ffc0de03f?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Black",
+      "Dark Brown"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "stock": 21
+  },
+  {
+    "id": 42,
+    "name": "Aqua Grip Sports Sandals",
+    "cat": "Shoes",
+    "price": 1909,
+    "orig": 2899,
+    "rating": 4.1,
+    "reviews": 198,
+    "desc": "Adjustable strap sandals with a grippy outsole, built for water sports and quick outdoor trips.",
+    "img": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Black",
+      "Blue"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "stock": 39
+  },
+  {
+    "id": 43,
+    "name": "Slimline RFID Card Holder",
+    "cat": "Accessories",
+    "price": 1409,
+    "orig": 2069,
+    "rating": 4.4,
+    "reviews": 321,
+    "desc": "A minimalist leather card holder with RFID-blocking layers and a slot for cash.",
+    "img": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1517256064527-09c73fc73e38?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Black",
+      "Tan"
+    ],
+    "stock": 68
+  },
+  {
+    "id": 44,
+    "name": "Nomad Canvas Duffel Bag",
+    "cat": "Accessories",
+    "price": 5809,
+    "orig": 7879,
+    "rating": 4.6,
+    "reviews": 176,
+    "desc": "A rugged waxed-canvas duffel with reinforced handles, ideal for weekend getaways.",
+    "img": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1602928321679-560bb453f190?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Olive",
+      "Charcoal"
+    ],
+    "stock": 24
+  },
+  {
+    "id": 45,
+    "name": "Aizen T-shirt",
+    "cat": "Accessories",
+    "price": 1909,
+    "orig": 2899,
+    "rating": 4.5,
+    "reviews": 245,
+    "desc": "Full-grain leather belt with a solid brass buckle, built to last for years of daily wear.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqwTKeJhy8g3tG_aX7ZkoHkZpbRFhrZZSET4pjhWON4w&s",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4sb2RhuMY6Ix6KFigr8PtZoELsk-5M8gQtsnoJ5kGKg&s",
+    "colors": [
+      "Black",
+      "Brown"
+    ],
+    "stock": 57
+  },
+  {
+    "id": 46,
+    "name": "Polarized Sport Sunglasses",
+    "cat": "Accessories",
+    "price": 2489,
+    "orig": 3729,
+    "rating": 4.3,
+    "reviews": 198,
+    "desc": "Lightweight wraparound sunglasses with polarized lenses, built for active outdoor days.",
+    "img": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Black/Grey",
+      "Blue/Silver"
+    ],
+    "stock": 41
+  },
+  {
+    "id": 47,
+    "name": "Woven Cotton Scarf",
+    "cat": "Accessories",
+    "price": 1659,
+    "orig": 2489,
+    "rating": 4.4,
+    "reviews": 132,
+    "desc": "A soft woven cotton scarf with a subtle checked pattern, perfect for layering in cooler months.",
+    "img": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Grey",
+      "Rust"
+    ],
+    "stock": 63
+  },
+  {
+    "id": 48,
+    "name": "Woven Jute Area Rug",
+    "cat": "Home",
+    "price": 5389,
+    "orig": 7469,
+    "rating": 4.5,
+    "reviews": 178,
+    "desc": "A natural jute area rug with a subtle herringbone weave, adding warmth to any room.",
+    "img": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Natural"
+    ],
+    "stock": 18
+  },
+  {
+    "id": 49,
+    "name": "Cascade Ceramic Planter Set",
+    "cat": "Home",
+    "price": 2489,
+    "orig": 3729,
+    "rating": 4.6,
+    "reviews": 203,
+    "desc": "A set of three hand-glazed ceramic planters in graduated sizes with drainage holes.",
+    "img": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Terracotta",
+      "Sage"
+    ],
+    "stock": 44
+  },
+  {
+    "id": 50,
+    "name": "SoftGlow LED Table Lamp",
+    "cat": "Home",
+    "price": 3319,
+    "orig": 4559,
+    "rating": 4.4,
+    "reviews": 156,
+    "desc": "A minimalist table lamp with dimmable warm-white LED and a fabric-wrapped cord.",
+    "img": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Cream",
+      "Black"
+    ],
+    "stock": 32
+  },
+  {
+    "id": 51,
+    "name": "Linen Throw Blanket",
+    "cat": "Home",
+    "price": 2899,
+    "orig": 4149,
+    "rating": 4.7,
+    "reviews": 267,
+    "desc": "A breathable linen-cotton throw blanket, lightweight yet warm, finished with a fringed edge.",
+    "img": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1614975059251-992f11792b9f?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Oatmeal",
+      "Sage"
+    ],
+    "stock": 38
+  },
+  {
+    "id": 52,
+    "name": "Bamboo Kitchen Organizer Set",
+    "cat": "Home",
+    "price": 1909,
+    "orig": 2899,
+    "rating": 4.3,
+    "reviews": 189,
+    "desc": "A modular bamboo organizer set for drawers and countertops, keeping kitchen tools tidy.",
+    "img": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Natural"
+    ],
+    "stock": 53
+  },
+  {
+    "id": 53,
+    "name": "Shonen Hero Action Figure",
+    "cat": "Anime",
+    "price": 4149,
+    "orig": 5809,
+    "rating": 4.8,
+    "reviews": 421,
+    "desc": "A dynamic 1/7 scale action figure capturing a fan-favorite hero mid-battle, hand-painted with fine detail.",
+    "img": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1583743814966-8936f37f4678?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Standard Edition",
+      "Limited Gold"
+    ],
+    "stock": 27
+  },
+  {
+    "id": 54,
+    "name": "Mecha Pilot Model Kit",
+    "cat": "Anime",
+    "price": 5389,
+    "orig": 7469,
+    "rating": 4.7,
+    "reviews": 298,
+    "desc": "A snap-fit mecha model kit with posable joints and detailed panel lines, no glue required.",
+    "img": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Standard Colorway"
+    ],
+    "stock": 34
+  },
+  {
+    "id": 55,
+    "name": "Sensei Study Desk Mat",
+    "cat": "Anime",
+    "price": 1659,
+    "orig": 2489,
+    "rating": 4.5,
+    "reviews": 312,
+    "desc": "A large anime-illustrated desk mat with a smooth mousing surface and stitched edges.",
+    "img": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Classic Print"
+    ],
+    "stock": 58
+  },
+  {
+    "id": 56,
+    "name": "Guardian Spirit Wall Scroll",
+    "cat": "Anime",
+    "price": 1409,
+    "orig": 2069,
+    "rating": 4.6,
+    "reviews": 189,
+    "desc": "A high-resolution fabric wall scroll featuring an iconic guardian spirit illustration.",
+    "img": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1520639888713-7851133b1ed0?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Standard"
+    ],
+    "stock": 71
+  },
+  {
+    "id": 57,
+    "name": "Katana Prop Replica Stand",
+    "cat": "Anime",
+    "price": 6639,
+    "orig": 8299,
+    "rating": 4.9,
+    "reviews": 142,
+    "desc": "A display-only katana replica on a lacquered wooden stand, inspired by classic samurai anime.",
+    "img": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Black Saya",
+      "Red Saya"
+    ],
+    "stock": 14
+  },
+  {
+    "id": 58,
+    "name": "Chibi Keychain Collector Set",
+    "cat": "Anime",
+    "price": 1659,
+    "orig": 2489,
+    "rating": 4.7,
+    "reviews": 534,
+    "desc": "A set of six chibi-style enamel keychains featuring beloved characters from a fan-favorite series.",
+    "img": "https://images.unsplash.com/photo-1603487742131-4160ec999306?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1622560481156-01a35bc45b19?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Series Set A",
+      "Series Set B"
+    ],
+    "stock": 82
+  },
+  {
+    "id": 59,
+    "name": "Ronin Ink Art Print",
+    "cat": "Anime",
+    "price": 1909,
+    "orig": 2899,
+    "rating": 4.6,
+    "reviews": 98,
+    "desc": "A museum-quality giclée print of an original ink-wash illustration inspired by samurai-era anime.",
+    "img": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&w=800&q=80",
+    "img2": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=800&q=80",
+    "colors": [
+      "Framed",
+      "Unframed"
+    ],
+    "stock": 46
+  }
+]
